@@ -1,0 +1,23 @@
+Oliver Jones
+TSP
+Test Document
+
+***This is all after completing the branch and bound technique
+To start, I tried tsp_8 to ensure that my algorithm could handle a small matrix with size 64.
+The program computed the number of cities, minimum cost, and best path correctly, all in 0.002 seconds.
+
+Next, I tried a tsp_15 to test the efficiency of the code.
+The code compiled correctly in 0.04 seconds.
+
+Then, tsp_26
+Compiled correctly in 91.37 seconds.
+
+Then, to test how far I could go, I built a random matrix generator (the Random class in my file) and 
+tried a matrix with length 40. 
+After 30 minutes of compiling, I stopped the program.
+
+I built a matrix of length 11, to make sure that there was no error in my random matrix generator.
+Compiled correctly (as far as I know) in 0.005 seconds. 
+
+Finally, I tried one of length 28.
+Compiled correctly in 74.15 seconds. 

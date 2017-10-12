@@ -1,0 +1,5 @@
+set value of the bend of all the letters from 2nd number in list up to p to MAX_VALUE
+from pointer p until end of list
+take min bend of number you're looking at, except for 0
+if(cost + mindBend > minCost) { 
+	continue

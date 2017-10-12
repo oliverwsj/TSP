@@ -1,0 +1,29 @@
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_8
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_9
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_11.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_15.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_20.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_26.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_28.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_29.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_30.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_30v2.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_30v3.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_31.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_31v2.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_32.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_32v2.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_32v3.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_32v4.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_33.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_34.txt
+C:\Users\Oliver\SkyDrive\CC\CS2\Traveling Salesperson\tsp_40.txt
+
+[0, 2, 4, 6, 7, 5, 3, 1]
+
+26 in 56 seconds
+28 in 44.7 seconds
+31 in 111 seconds
+32 in 13 minutes
+33 in 25 minutes
+34 in 34 minutes
