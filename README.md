@@ -1,4 +1,4 @@
-Traveling Salesperson Problem (TSP)
+# Traveling Salesperson Problem (TSP)
 
 Solves instances of the TSP.  My solution, written in Java, implements an optimized branch and bound technique for faster selection of the shortest route. Program is fastest in the history of the CS2 class at Colorado College.
 
